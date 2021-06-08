@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**burakeven/burakeven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">Hi there 👋, I'm Burak</h2>
 
-Here are some ideas to get you started:
+* Computer Science and Engineering Student @Duzce Uni.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📫 How to reach me: burak.even@hotmail.com
+
+---
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=burakeven&theme=onedark&hide=prs&count_private=true&show_icons=true&hide_border=true">
+</p>
+
+---
+
+### Connect with me:
+
+[<img align="left" alt="burakeven | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br />
+<br />
+<br />
+
+[instagram]: https://www.instagram.com/burakeven/
