@@ -1,5 +1,7 @@
 
-<h2 align="left">Hi there 👋, I'm Burak</h2>
+<h2 align="left">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Burak</h2>
+
+
 
 * Computer Science and Engineering Student @Duzce Uni.
 
@@ -7,9 +9,9 @@
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=burakeven&theme=onedark&hide=prs&count_private=true&show_icons=true&hide_border=true">
-</p>
+#### 📈 My GitHub Statistics
+
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=burakeven&show_icons=true&count_private=true&hide_title=true)
 
 ---
 
@@ -21,3 +23,6 @@
 <br />
 
 [instagram]: https://www.instagram.com/burakeven/
+
+
+
