@@ -3,7 +3,7 @@
 
 
 
-* Computer Science and Engineering Student @Duzce Uni.
+* Computer Science and Engineering Student @Duzce University
 
 * 📫 How to reach me: burak.even@hotmail.com
 
