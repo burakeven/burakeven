@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Burak</h2>
+<h2 align="left">Hi there, I'm Burak</h2>
 
 
 
